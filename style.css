@@ -1,0 +1,130 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table,
+th,
+td {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.Delivered{
+color: #1F9254;
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.trash{
+width: 24px;
+height: 24px;
+}
+
+.edit{
+width: 24px;
+height: 24px;
+}
+
+
+.Process{
+    color: #CD6200;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.Cenceled{
+color: #A30D11;
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.th1{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.th1{
+    display: flex;
+padding: 8px 12px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+}
+
+.th1{
+    border-radius: 8px;
+background: #624DE3;
+}
+
+.Search{
+color: #9E9E9E;
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.Search{
+flex: 1 0 0;;
+}
+
+.Search{
+    color: #9E9E9E;
+width: 16px;
+height: 16px;
+
+}
+
+.Search{
+    display: flex;
+    height: 32px;
+width: 218px;
+padding: 8px 9px;
+align-items: center;
+gap: 8px;
+flex: 1 0 0;
+}
+
+.Search{
+    border-radius: 8px;
+border: 1px solid #9E9E9E;
+}
+
+.isrebi{
+    width: 100px;
+height: 20px;
+}
+
+.show{
+    color: #000;
+
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.show{
+    display: flex;
+justify-content: center;
+align-items: center;
+gap: 12px;
+}
